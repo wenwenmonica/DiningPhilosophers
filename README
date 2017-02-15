@@ -1,0 +1,11 @@
+
+Programming Questions:
+Solve the dining philosopher’s problem using monitors.
+
+
+
+Source Code File: 
+Monitor: use Condition, Lock, ReentrantLock classes to make the Monitor class.
+Philosophers: the class implements Runnable, to let philosophers eat and think.
+Main: main class, give an example 5 philosophers.
+
